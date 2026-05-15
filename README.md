@@ -74,3 +74,6 @@ Data Harga Rumah di Depok
 
 Created as part of a Data Analyst portfolio project using SQL and Power BI.
 ****
+
+## Documentation
+<img width="1271" height="717" alt="Dashboard Harga Rumah Depok" src="https://github.com/user-attachments/assets/4306390b-a68f-4434-84b6-b99e2f752760" />
